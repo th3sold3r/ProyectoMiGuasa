@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/ProyectoMiGuasa/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/alumno/.android/build-cache/19f4c2a0b8923b39d14cd24d3833e2aa99d2b93c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/ProyectoMiGuasa/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/alumno/.android/build-cache/19f4c2a0b8923b39d14cd24d3833e2aa99d2b93c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/ProyectoMiGuasa/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/alumno/.android/build-cache/19f4c2a0b8923b39d14cd24d3833e2aa99d2b93c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/ProyectoMiGuasa/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/alumno/.android/build-cache/19f4c2a0b8923b39d14cd24d3833e2aa99d2b93c/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
